@@ -1,0 +1,5 @@
+('C:\\Users\\YYUAN44\\Documents\\code\\python\\鼠标移动\\build\\keyPress\\pyautogui-0.9.33-py3.7.egg',
+ None,
+ {'*.pyc', '*.cp37-win32.pyd', '*.pyd', '*.pyw', '*.py', 'EGG-INFO'},
+ 'DATA',
+ [])
